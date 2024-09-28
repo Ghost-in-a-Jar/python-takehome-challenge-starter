@@ -1,7 +1,7 @@
 Python Takehome Challenge Starter
 ===========
 
-This project is a simple **cookiecutter templace** for fast setup when doing takehome challenges. Just
+This project is a simple **cookiecutter template** for fast setup when doing takehome challenges. Just
 use cookiecutter and create a new project in no time.
 
 ```shell
