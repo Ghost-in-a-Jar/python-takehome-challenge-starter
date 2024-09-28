@@ -4,6 +4,8 @@ Python Takehome Challenge Starter
 This project is a simple **cookiecutter template** for fast setup when doing takehome challenges. Just
 use cookiecutter and create a new project in no time.
 
+Using this template will get a poetry project with a simple CLI entrypoint and a dockerfile to run the project in a container.
+
 ```shell
 # If pipx is not installed, see https://github.com/pypa/pipx for Linux and Windows instructions
 brew install pipx

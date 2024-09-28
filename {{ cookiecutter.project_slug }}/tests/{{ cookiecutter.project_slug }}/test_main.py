@@ -1,5 +1,5 @@
 from click.testing import CliRunner
-from traffic_light_simulator.main import main
+from main import main
 from testfixtures import log_capture, LogCapture  # type: ignore
 
 

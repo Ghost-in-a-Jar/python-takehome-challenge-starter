@@ -3,10 +3,6 @@ import time
 
 import click
 
-import traffic_light_simulator.traffic_light as traffic_light
-import traffic_light_simulator.traffic_light_config
-
-
 @click.command()
 @click.option(
     "--print-delay",
