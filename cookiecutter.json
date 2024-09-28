@@ -1,0 +1,5 @@
+{
+  "project_name": "Python Takehome Challenge Starter Template",
+  "project_slug": "{{ cookiecutter.project_name.lower().replace(' ', '_') }}",
+  "author": "Your Name"
+}
