@@ -7,6 +7,9 @@ use cookiecutter and create a new project in no time.
 Using this template will get a (python 3.12) poetry project with a simple CLI entrypoint and a dockerfile to run the project in a container.
 
 ```shell
+# If python3.12 is not installed, see https://www.python.org/downloads/ for Linux and Windows instructions
+brew install python@3.12
+
 # If pipx is not installed, see https://github.com/pypa/pipx for Linux and Windows instructions
 brew install pipx
 

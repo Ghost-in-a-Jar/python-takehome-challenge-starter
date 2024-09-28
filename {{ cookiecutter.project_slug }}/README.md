@@ -34,6 +34,8 @@ OSX example:
 
 You can run `poetry --version` to verify that the installation was successful.
 
+You can also run `poetry show -v` to see where the virtual env is located in order to configure your IDE.
+
 ## Install python dependencies
 
 ```bash

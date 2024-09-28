@@ -1,6 +1,8 @@
 from click.testing import CliRunner
-from main import main
+
 from testfixtures import log_capture, LogCapture  # type: ignore
+
+from {{cookiecutter.project_slug }} import main
 
 
 @log_capture()
