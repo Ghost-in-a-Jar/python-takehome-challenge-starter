@@ -22,6 +22,6 @@ ENV VIRTUAL_ENV=/app/.venv \
 
 COPY --from=builder ${VIRTUAL_ENV} ${VIRTUAL_ENV}
 
-COPY src/ ./{{ cookiecutter.project_slug }}
+COPY src/{{ cookiecutter.project_slug }} ./{{ cookiecutter.project_slug }}
 
 ENTRYPOINT ["python", "-m", "{{ cookiecutter.project_slug }}.main"]
