@@ -1,8 +1,5 @@
 # {{ cookiecutter.project_name }}
 
-This is a simple traffic light simulator written in Python. It displays an ASCII representation of a traffic light and 
-allows the user to specify the duration of each light color. The simulator runs until the user exits the program via a KeyboardInterrupt.
-
 ## Running with docker
 Running with docker is the easiest way because you don't have to setup a python environment.
 
