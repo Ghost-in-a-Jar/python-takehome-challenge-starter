@@ -41,12 +41,10 @@ make install
 
 ## Usage
 
-Run with a default of 2 seconds for each light color:
 ```bash
 make run
 ```
 
-Run with a custom duration for each light color:
 ```bash
 poetry run start --print-delay 3
 ```
